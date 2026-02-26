@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/leoncalliste">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=600&center=false&vCenter=true&lines=Full+Stack+Developer+10+years+of+experience" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=600&center=false&vCenter=true&lines=Full+Stack+Developer+years+of+experience" alt="Typing SVG" />
   </a>
 </div> 
   
