@@ -5,7 +5,7 @@
 </div> 
   
 
-Hi there! I’m a Senior Full Stack Developer with over 12 years of experience in web development.
+Hi there! I’m a Senior Full Stack Developer with over 10 years of experience in web development.
 
 I specialize in:
 <br/>
